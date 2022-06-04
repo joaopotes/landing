@@ -1,0 +1,21 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #252525;
+}
+
+.footer a{
+  color: #1EDD88;
+}
+
+.footer p{
+  color: #6B6C6C;
+}
+
+.footer .fa-brands {
+  font-size: xx-large;
+}
+
+.footer .fas {
+  color: #BF0F12;
+}
